@@ -352,6 +352,16 @@ section:nth-child(even){
     text-transform: none;
     padding: 1rem;
 }
+.book .row form .bb{
+    width: 100%;
+    margin:.7rem 0;
+    border-radius: .5rem;
+    border:var(--border);
+    font-size: 1.6rem;
+    color: var(--black);
+    text-transform: none;
+    padding: 1rem;
+}
 
 .book .row form .btn{
     padding:1rem 4rem;
